@@ -1,3 +1,1 @@
-# alx-backend-javascript
-
-ALX Backend Specialization
+# ES6 Placeholder
